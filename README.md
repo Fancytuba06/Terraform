@@ -1,2 +1,1 @@
-#only for entertainment purpose I repeat not for education
-
+# Tom is the best example for a brain dead person eventhough he has no brain😅
