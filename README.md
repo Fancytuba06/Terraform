@@ -1,2 +1,2 @@
-# Only for entertainment purpose🤓.
-# I repeat not for education 😎
+# Only For Entertainment Purpose🤓.
+# I Repeat Not For Education 😎
