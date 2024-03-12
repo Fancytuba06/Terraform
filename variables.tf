@@ -89,3 +89,21 @@ variable "ec2_Name" {
    type = string
    description = "AWS instance ec2"
 } 
+
+# instance type
+
+variable "instance_type" {
+   type = string
+   description = "AWS instance type"
+} 
+
+variable "ami" {
+   type = string
+   description = "ami type"
+} 
+
+
+variable "keypair" {
+   type = string
+   description = "key pair"
+}
