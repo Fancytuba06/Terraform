@@ -105,9 +105,9 @@ resource "aws_security_group" "sg" {
 #AWS instance ec2
 
 resource "aws_instance" "web" {
-  ami           = "ami-0440d3b780d96b29d"
-  instance_type = "t2.micro"
-  key_name      = "demo" 
+  ami           = var.ami
+  instance_type = var.instance_type
+  key_name      = var.keypair 
   vpc_security_group_ids = [
     aws_security_group.sg.id,  
      
