@@ -1,2 +1,5 @@
-# Only For Entertainment Purpose🤓.
-# I Repeat Not For Education 😎
+# Tips
+# Tom is the perfect example of a brainless guy
+
+# This Is Only For Entertainment Purpose 🤓
+# Not For Education 😎
