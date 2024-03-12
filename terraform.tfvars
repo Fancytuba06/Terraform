@@ -12,11 +12,11 @@ sg_Name = "allow_tls"                   #security group name
 
 ec2_Name = "Bug"                        #instance name
 
-instance_type 	= "t2.micro"            #instance type
+instance_type = "t2.micro"              #instance type
 
-ami 		= "ami-0440d3b780d96b29d"       #Ami
+ami = "ami-0440d3b780d96b29d"           #Ami
 
-keypair 	= "demo"                      #Keypair name
+keypair = "demo"                        #Keypair name
 
 
 
